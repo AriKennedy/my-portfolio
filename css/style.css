@@ -353,8 +353,12 @@ ol.style1 li {
   background-color: rgb(204, 147, 185);
   text-align: center;
   font-size: 10px;
-  text-decoration: none;
   border-radius: 100px;
+}
+
+.resume a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .icon {
